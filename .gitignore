@@ -1,0 +1,4 @@
+# Compiled programs (rebuild with g++)
+*.exe
+*.o
+
